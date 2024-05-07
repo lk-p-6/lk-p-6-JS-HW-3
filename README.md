@@ -1,2 +1,2 @@
-# lk-p-6-JS-HW-4
-Prjctr Course (JS): Homework 4 on topic - Arrays
+# lk-p-6-JS-HW-3
+Prjctr Course (JS): Homework 3 on topic - Arrays
